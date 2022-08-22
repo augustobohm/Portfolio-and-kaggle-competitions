@@ -1,3 +1,6 @@
+--Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+
 select *
 from CovidProject..[covid deaths]
 order by 3,4
